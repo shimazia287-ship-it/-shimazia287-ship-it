@@ -13,8 +13,7 @@
 
 - 🤝 I’m looking for help with [🤝 I’m looking for help with improving my full-stack development skills and contributing to open-source projects.](https://www.fiverr.com/users/mdziaurrahman17)
 
-- 👨‍💻 All of my projects are available at [file:///D:/All%20wdd%20file/cls-9%20portfolio/metierhtml/main-file/index.html](file:///D:/All%20wdd%20file/cls-9%20portfolio/metierhtml/main-file/index.html)
-
+- 👨‍💻 All of my projects are available at https://www.behance.net/mdziaurrahman19
 - 💬 Ask me about **💬 Ask me about Web Design, Web Development, WordPress, HTML5, CSS3, JavaScript, PHP, Bootstrap, jQuery, and MySQL.**
 
 - 📫 How to reach me **shima.zia287@gmail.com**
