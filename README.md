@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shima.zia287@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q-JWAY2t8SPX8_S7iBCJxJoas9kNQpsV/view?usp=sharing](https://drive.google.com/file/d/1Q-JWAY2t8SPX8_S7iBCJxJoas9kNQpsV/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1Q-JWAY2t8SPX8_S7iBCJxJoas9kNQpsV/view?usp=sharing](https://drive.google.com/file/d/12Ck6V8yinxDNNViokKVB4c4KCe3h-LDe/view?usp=sharing))
 
 - ⚡ Fun fact **⚡ Fun fact: I enjoy turning creative ideas into responsive websites and clean, user-friendly designs.**
 
