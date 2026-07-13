@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimazia287-ship-it" alt="shimazia287-ship-it" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancer](https://www.freelancer.com.bd/u/mdziaur82)
+- 🔭 I’m currently working on https://www.freelancer.com/u/mdziaur82
 
 - 🌱 I’m currently learning **🌱 I’m currently learning HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, MySQL, WordPress, Git, and GitHub to build modern, responsive, and dynamic web applications.**
 
