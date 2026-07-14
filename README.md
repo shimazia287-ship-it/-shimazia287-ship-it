@@ -1,4 +1,4 @@
-<p> < img src = "Mosammat Israt Jahan .png "/></P>   <h1 align="center"> I'm Mosammat Israt Jahan</h1>
+ < img src = "Mosammat Israt Jahan .png "/>   <h1 align="center"> I'm Mosammat Israt Jahan</h1>
 <h3 align="center">Creating responsive websites, clean code, and creative designs. Web Designer • WordPress Expert • Graphic Designer • Freelancer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimazia287-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="shimazia287-ship-it" /> </p>
