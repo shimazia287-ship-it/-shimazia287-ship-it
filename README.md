@@ -1,5 +1,5 @@
 
-  <img src= "https://media.licdn.com/dms/image/v2/D5635AQEc6BrML6qscw/profile-framedphoto-shrink_800_800/B56Z9hi9byIQAY-/0/1784047983104?e=1784736000&v=beta&t=SzHF0DICTwXKo7D4VSYRe_JDfO8g8yob7sAo4A28lJc">
+  <img width=120px src= "https://media.licdn.com/dms/image/v2/D5635AQEc6BrML6qscw/profile-framedphoto-shrink_800_800/B56Z9hi9byIQAY-/0/1784047983104?e=1784736000&v=beta&t=SzHF0DICTwXKo7D4VSYRe_JDfO8g8yob7sAo4A28lJc">
   
 <h3 align="center">Creating responsive websites, clean code, and creative designs. Web Designer • WordPress Expert • Graphic Designer • Freelancer.</h3>
 
