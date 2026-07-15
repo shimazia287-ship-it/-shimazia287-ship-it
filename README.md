@@ -1,6 +1,6 @@
 
-  <img src= https://media.licdn.com/dms/image/v2/D5635AQEc6BrML6qscw/profile-framedphoto-shrink_200_200/B56Z9hi9byIQAQ-/0/1784047983105?e=1784736000&v=beta&t=XBgmbPL_bD7dZaP_arVO-eLtcKDu6q9bLuH0a8hNf_Y
-  <h1 align="center"> I'm Mosammat Israt Jahan</h1>
+  <img src= https://media.licdn.com/dms/image/v2/D5635AQEc6BrML6qscw/profile-framedphoto-shrink_800_800/B56Z9hi9byIQAY-/0/1784047983104?e=1784736000&v=beta&t=SzHF0DICTwXKo7D4VSYRe_JDfO8g8yob7sAo4A28lJc
+  
 <h3 align="center">Creating responsive websites, clean code, and creative designs. Web Designer • WordPress Expert • Graphic Designer • Freelancer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimazia287-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="shimazia287-ship-it" /> </p>
